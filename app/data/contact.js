@@ -8,22 +8,17 @@ import faEnvelope from "@fortawesome/fontawesome-free-regular/faEnvelope";
 
 const data = [
   {
-    link: "https://github.com/farzad528",
-    label: "Github",
-    icon: faGithub,
-  },
-  {
-    link: "https://www.facebook.com/fsunavala/",
+    link: "https://www.facebook.com/natalia.vornic",
     label: "Facebook",
     icon: faFacebook,
   },
   {
-    link: "https://www.instagram.com/farzad_528/",
+    link: "https://www.instagram.com/msnataliav/",
     label: "Instagram",
     icon: faInstagram,
   },
   {
-    link: "https://www.linkedin.com/in/farzadsunavala/",
+    link: "https://www.linkedin.com/in/natalia-vornic-026ab060/",
     label: "LinkedIn",
     icon: faLinkedinIn,
   },
@@ -33,12 +28,12 @@ const data = [
   //   icon: faAngellist,
   // },
   {
-    link: "https://twitter.com/farzad528",
+    link: "https://twitter.com/nataliavornic",
     label: "Twitter",
     icon: faTwitter,
   },
   {
-    link: "mailto:fsunavala1@gmail.com",
+    link: "mailto:vornic.natalia@gmail.com",
     label: "Email",
     icon: faEnvelope,
   },

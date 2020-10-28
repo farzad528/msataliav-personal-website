@@ -7,27 +7,27 @@ const randomString = (length) => {
 const pages = [
   {
     route: '/',
-    title: 'Farzad Sunavala',
+    title: 'Natalia Vornic',
     heading: 'ABOUT THIS SITE',
   },
   {
     route: '/about',
-    title: 'About | Farzad Sunavala',
+    title: 'About | Natalia Vornic',
     heading: 'ABOUT ME',
   },
   {
     route: '/projects',
-    title: 'Projects | Farzad Sunavala',
+    title: 'Projects | Natalia Vornic',
     heading: 'PROJECTS',
   },
   {
     route: '/stats',
-    title: 'Stats | Farzad Sunavala',
+    title: 'Stats | Natalia Vornic',
     heading: 'STATS',
   },
   {
     route: '/contact',
-    title: 'Contact | Farzad Sunavala',
+    title: 'Contact | Natalia Vornic',
     heading: 'CONTACT',
   },
 ];

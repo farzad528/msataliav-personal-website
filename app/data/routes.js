@@ -1,7 +1,7 @@
 const data = [
   {
     path: '/',
-    label: 'Farzad Sunavala',
+    label: 'Natalia Vornic',
     index: true,
   },
   {

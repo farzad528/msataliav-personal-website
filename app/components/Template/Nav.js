@@ -10,12 +10,12 @@ const Nav = () => (
     <section id="intro">
       <Link to="/" className="logo">
         <img
-          src="https://github.com/farzad528/msnataliav-personal-website/blob/main/public/images/me_icon.jpg?raw=true"
+          src="https://github.com/farzad528/msataliav-personal-website/blob/main/public/images/me_icon.jpg"
           alt=""
         />
       </Link>
       <header>
-        <h2>Farzad Sunavala</h2>
+        <h2>Natalia Vornic</h2>
         <p>
           <a href="vornic.natalia@gmail.com">vornic.natalia@gmail.com</a>
         </p>
@@ -27,7 +27,7 @@ const Nav = () => (
       <p>
         Hi, I&apos;m Natalia. I am a powerless pawn. I am a{" "}
         <a href="https://www.uh.edu/">University of Houston</a> MBA graduate,
-        supply chain evangelist and CEO of *insert name of future billion dollar
+        supply chain technology evangelist and future CEO of *insert name of future billion dollar
         company here*
       </p>
       <ul className="actions">
@@ -56,7 +56,7 @@ const Nav = () => (
         ))}
       </ul>
       <p className="copyright">
-        &copy; Farzad Sunavala <Link to="/">fullstackfarzzy.tech</Link>.
+        &copy; Natalia Vornic <Link to="/">msnataliav.tech</Link>.
       </p>
     </section>
   </section>
