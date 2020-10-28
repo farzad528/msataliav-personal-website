@@ -10,7 +10,7 @@ const Nav = () => (
     <section id="intro">
       <Link to="/" className="logo">
         <img
-          src="https://github.com/farzad528/msataliav-personal-website/blob/main/public/images/me_icon.jpg"
+          src="https://github.com/farzad528/msataliav-personal-website/blob/main/public/images/me_icon.jpg?raw=true"
           alt=""
         />
       </Link>
