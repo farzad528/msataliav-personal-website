@@ -10,14 +10,14 @@ const Nav = () => (
     <section id="intro">
       <Link to="/" className="logo">
         <img
-          src="https://github.com/farzad528/personal-website/blob/main/public/images/me_icon.jpg?raw=true"
+          src="https://github.com/farzad528/msnataliav-personal-website/blob/main/public/images/me_icon.jpg?raw=true"
           alt=""
         />
       </Link>
       <header>
         <h2>Farzad Sunavala</h2>
         <p>
-          <a href="mailto:fsunavala1@gmail.com">fsunavala1@gmail.com</a>
+          <a href="vornic.natalia@gmail.com">vornic.natalia@gmail.com</a>
         </p>
       </header>
     </section>
@@ -25,13 +25,10 @@ const Nav = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>
-        Hi, I&apos;m Farzad. I like building things. I am a{" "}
-        <a href="https://www.lsu.edu/eng/pete/index.php">
-          LSU Petroleum Engineering
-        </a>{" "}
-        graduate, self-taught programmer thanks to Stack Overflow, YouTube,
-        Udemy, Coursera, and edX, as well as the co-founder and CTO of{" "}
-        <a href="https://www.instagram.com/barstat.lsu/?hl=en">BarStat</a>.
+        Hi, I&apos;m Natalia. I am a powerless pawn. I am a{" "}
+        <a href="https://www.uh.edu/">University of Houston</a> MBA graduate,
+        supply chain evangelist and CEO of *insert name of future billion dollar
+        company here*
       </p>
       <ul className="actions">
         <li>
